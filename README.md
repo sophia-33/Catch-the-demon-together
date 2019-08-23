@@ -1,11 +1,11 @@
-# Catch-the-demon-together
+# Catch the demon together (一起来捉妖)
 For the cat in the game
 
-#### Description
+## Description
 
 Used to prevent yourself from throwing away useful cats.
 
-#### How to use
+## How to use
 
  - Add your cats in `cat.txt`
  - Add your genes in `gene.txt`
